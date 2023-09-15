@@ -1,0 +1,26 @@
+Criar um site para um restaurante fictício chamado "GourmetDelights". O site pode ter várias seções, como página inicial, menu, galeria, sobre nós e contato.
+
+Página Inicial:
+Cabeçalho com o logotipo do restaurante e uma barra de navegação responsiva.✅
+Um carrossel de imagens exibindo pratos deliciosos do menu.✅
+Uma breve introdução ao restaurante e sua especialidade.✅
+
+Menu:
+Uma seção organizada por categorias de pratos (entrada, prato principal, sobremesa, etc.).✅
+Cada prato listado com uma imagem, nome, descrição e preço.✅
+Opção para os clientes filtrarem os pratos por categoria.
+
+Galeria:
+Uma galeria de imagens mostrando fotos do interior do restaurante, pratos bem arranjados e momentos especiais.✅
+As imagens podem ser organizadas em um grid responsivo.✅
+
+Sobre Nós:
+Informações sobre a história do restaurante, sua visão e valores.✅
+Uma seção destacando o chef executivo e sua experiência culinária.✅
+Depoimentos de clientes satisfeitos.✅
+
+Contato:
+Informações de contato, incluindo endereço, número de telefone e e-mail.
+Formulário de contato para os clientes enviarem mensagens diretamente do site.
+Links para as redes sociais do restaurante.
+Lembre-se de usar os componentes do Bootstrap para garantir que o site seja responsivo e tenha uma aparência agradável em dispositivos móveis e desktops. Use o sistema de grid do Bootstrap para organizar o conteúdo de maneira eficaz e os componentes como modais, carrosséis e formulários para melhorar a experiência do usuário
